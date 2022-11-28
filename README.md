@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gokhannihal&theme=vue-dark&border_radius=5)](https://git.io/streak-stats)
+
+
 <!--
 **gokhannihal/gokhannihal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
