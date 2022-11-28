@@ -31,7 +31,7 @@ I am a Full Stack Developer And DevOps Engineer <img src="https://media.giphy.co
 </br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Java" width="40" height="40"/>&nbsp;
+
 </div>
 
 
