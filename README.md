@@ -7,7 +7,7 @@ I am a Full Stack Developer And DevOps Engineer <img src="https://media.giphy.co
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-gokhannihal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gokhannihal/)
 
 ---
-![image](https://user-images.githubusercontent.com/48493478/204306989-804f83eb-a77c-4e04-9016-effb75c52ca5.png =40x40)
+![image](https://user-images.githubusercontent.com/48493478/204306989-804f83eb-a77c-4e04-9016-effb75c52ca5.png=40x40)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
