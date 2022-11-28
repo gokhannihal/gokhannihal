@@ -1,33 +1,12 @@
-### Hi there 👋
-
 ---
 
-</p>
-  <p align="center">
-    <a href="https://github.com/gokhannihal/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/gokhannihal/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
-    <a href="https://github.com/gokhannihal/github-readme-stats/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/gokhannihal/github-readme-stats" />
-    </a>
-    <a href="https://codecov.io/gh/gokhannihal/github-readme-stats">
-      <img src="https://codecov.io/gh/gokhannihal/github-readme-stats/branch/master/graph/badge.svg" />
-    </a>
-    <a href="https://github.com/gokhannihal/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/gokhannihal/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://github.com/gokhannihal/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/gokhannihal/github-readme-stats?color=0088ff" />
-    </a>
-    <br />
-    <br />
-    <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
-      <img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
-    </a>
-    <a href="https://a.paddle.com/v2/click/16413/119403?link=2345">
-      <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
-    </a>
-  </p>
+### :woman_technologist: About Me :
+
+I am a Full Stack Developer And DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
+
+- :telescope: I am currently working as a devops engineer. I provide consultancy services to our customers in the field of cloud computing.
+
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gokhannihal/)
 
 ---
 
