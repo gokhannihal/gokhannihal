@@ -8,7 +8,7 @@ I am a Full Stack Developer And DevOps Engineer <img src="https://media.giphy.co
 
 ---
 
-### :<img src="https://user-images.githubusercontent.com/48493478/204306989-804f83eb-a77c-4e04-9016-effb75c52ca5.png" title="AWS" alt="AWS" width="20" height="20"/>: Languages and Tools :
+### <img src="https://user-images.githubusercontent.com/48493478/204306989-804f83eb-a77c-4e04-9016-effb75c52ca5.png" title="AWS" alt="AWS" width="20" height="20"/> Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
