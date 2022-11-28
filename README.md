@@ -4,7 +4,7 @@ I am a Full Stack Developer And DevOps Engineer <img src="https://media.giphy.co
 
 - :telescope: I am currently working as a devops engineer. I provide consultancy services to our customers in the field of cloud computing.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gokhannihal/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-gokhannihal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gokhannihal/)
 
 ---
 
